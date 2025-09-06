@@ -1,0 +1,44 @@
+[
+  {
+    "employee": "Keshav",
+    "department": "HR",
+    "salary": "500000.0",
+    "joining_date": "2020-01-15",
+    "bonus": "50000.0"
+  },
+  {
+    "employee": "Afroze",
+    "department": "Finance",
+    "salary": "600000.0",
+    "joining_date": "2019-03-10",
+    "bonus": "7000000.0"
+  },
+  {
+    "employee": "Nico",
+    "department": "IT",
+    "salary": "nan",
+    "joining_date": "2021-06-25",
+    "bonus": "40000.0"
+  },
+  {
+    "employee": "Sravya",
+    "department": "Finance",
+    "salary": "720000.0",
+    "joining_date": "2018-07-01",
+    "bonus": "80000.0"
+  },
+  {
+    "employee": "Ethan",
+    "department": "IT",
+    "salary": "550000.0",
+    "joining_date": "2022-02-14",
+    "bonus": "nan"
+  },
+  {
+    "employee": "Fiona",
+    "department": "HR",
+    "salary": "580000.0",
+    "joining_date": "2021-11-11",
+    "bonus": "60000.0"
+  }
+]
